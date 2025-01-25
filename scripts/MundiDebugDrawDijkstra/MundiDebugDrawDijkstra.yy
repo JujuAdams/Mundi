@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"MundiDebugDrawDijkstra",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"MundiDebugDrawDijkstra",
+  "parent":{
+    "name":"Debug",
+    "path":"folders/Mundi/Debug.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

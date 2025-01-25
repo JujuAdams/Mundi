@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"MundiDijkstraGetCells",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"MundiDijkstraGetCells",
+  "parent":{
+    "name":"Dijkstra",
+    "path":"folders/Mundi/Dijkstra.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

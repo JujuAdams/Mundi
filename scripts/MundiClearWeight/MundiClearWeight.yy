@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"MundiClearWeight",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"MundiClearWeight",
+  "parent":{
+    "name":"Weights",
+    "path":"folders/Mundi/Weights.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

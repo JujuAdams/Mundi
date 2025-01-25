@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"MundiSetHeight",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"MundiSetHeight",
+  "parent":{
+    "name":"Mundi",
+    "path":"folders/Mundi.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"MundiSetWidth",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"MundiSetWidth",
+  "parent":{
+    "name":"Mundi",
+    "path":"folders/Mundi.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

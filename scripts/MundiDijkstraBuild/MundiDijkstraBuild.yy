@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"MundiDijkstraBuild",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"MundiDijkstraBuild",
+  "parent":{
+    "name":"Dijkstra",
+    "path":"folders/Mundi/Dijkstra.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"MundiExists",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"MundiExists",
+  "parent":{
+    "name":"Mundi",
+    "path":"folders/Mundi.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
